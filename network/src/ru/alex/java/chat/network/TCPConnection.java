@@ -16,7 +16,6 @@ public class TCPConnection {
         this(eventListener,new Socket(ipAddress, portNumber));
     }
 
-
     public TCPConnection(TCPActions eventListener, Socket socket) throws IOException  {
         this.eventListener = eventListener;
         this.socket = socket;

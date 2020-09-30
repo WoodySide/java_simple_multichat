@@ -6,5 +6,4 @@ public interface TCPActions {
     void receiveMessage(TCPConnection tcpConnection, String value);
     void onDisconnect(TCPConnection tcpConnection);
     void receiveException(TCPConnection tcpConnection, Exception e);
-
 }
