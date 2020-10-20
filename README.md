@@ -1,4 +1,4 @@
-:cyclone:Project Manager
+:cyclone:Java Simple Multichat
 -----------
 Многопользовательский чат с использованием многопоточности,коллекции и класса Socket.
 Графическим интерфейсом служит Swing
