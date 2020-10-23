@@ -1,4 +1,4 @@
 :cyclone:Java Simple Multichat
 -----------
-Многопользовательский чат с использованием многопоточности,коллекции и класса Socket.
-Графическим интерфейсом служит библиотека Swing
+Multi-user chat with using  multithreading,collections and the class Socket.
+The library Swing used as agraphical interface.
